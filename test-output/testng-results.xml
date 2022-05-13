@@ -1,33 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[inside 1***********]]>
-    </line>
-    <line>
-      <![CDATA[inside 2***********]]>
-    </line>
   </reporter-output>
-  <suite started-at="2022-05-06T11:54:03 IST" name="Default suite" finished-at="2022-05-06T11:54:03 IST" duration-ms="62">
+  <suite started-at="2022-05-12T12:46:32 IST" name="Default suite" finished-at="2022-05-12T12:46:46 IST" duration-ms="13942">
     <groups>
     </groups>
-    <test started-at="2022-05-06T11:54:03 IST" name="Default test" finished-at="2022-05-06T11:54:03 IST" duration-ms="62">
-      <class name="testngPackageTest.NewTest">
-        <test-method signature="reportTest1()[pri:0, instance:testngPackageTest.NewTest@193f604a]" started-at="2022-05-06T11:54:03 IST" name="reportTest1" finished-at="2022-05-06T11:54:03 IST" duration-ms="10" status="PASS">
+    <test started-at="2022-05-12T12:46:32 IST" name="Default test" finished-at="2022-05-12T12:46:46 IST" duration-ms="13942">
+      <class name="dropdownBootstrap.MedlabDropDown">
+        <test-method signature="BootStrapDropDown()[pri:0, instance:dropdownBootstrap.MedlabDropDown@37654521]" started-at="2022-05-12T12:46:32 IST" name="BootStrapDropDown" finished-at="2022-05-12T12:46:46 IST" duration-ms="13883" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[inside 1***********]]>
-            </line>
           </reporter-output>
-        </test-method> <!-- reportTest1 -->
-        <test-method signature="reportTest2()[pri:0, instance:testngPackageTest.NewTest@193f604a]" started-at="2022-05-06T11:54:03 IST" name="reportTest2" finished-at="2022-05-06T11:54:03 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[inside 2***********]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- reportTest2 -->
-      </class> <!-- testngPackageTest.NewTest -->
+        </test-method> <!-- BootStrapDropDown -->
+      </class> <!-- dropdownBootstrap.MedlabDropDown -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
